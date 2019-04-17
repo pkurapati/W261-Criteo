@@ -15,11 +15,11 @@ Finally we explored tree based methods including Decision Tree and Random Forres
 Model Comparison
 
 |	Model	|	LR-FH-ML	|	LR-OHE-ML	|	LR-OHE-MLlib	|	DT-ML	|	RF-ML	|	LR-RDD	|
-|	-----	|	--------	|	---------	|	-------------	|	-----	|	-----	|	--------	|
+|	------------------	|	------------------	|	------------------	|	------------------	|	------------------	|	------------------	|	------------------	|
 |	Accuracy	|	0.754	|	0.755	|	0.754	|	0.75	|	0.755	|	0.746	|
-|	Precision	|	0.969	|	0.629	|	0.582	|	0.538	|	0.629	|		|
+|	Precision	|	0.129	|	0.629	|	0.582	|	0.538	|	0.629	|		|
 |	Recall	|	0.764	|	0.11	|	0.135	|	0.17	|	0.11	|		|
-|	F1	|	0.854	|	0.187	|	0.219	|	0.258	|	0.187	|		|
+|	F1	|	0.221	|	0.187	|	0.219	|	0.258	|	0.187	|		|
 
 The above table summarizes the results of each model. The models are listed in descending order of efficiency from left to right (most efficient model is on the left, least efficient is on the right). 
 
